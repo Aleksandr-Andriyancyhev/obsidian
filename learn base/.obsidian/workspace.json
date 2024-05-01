@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "5bb808c3840901b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f7e1c2482cdda0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a172fb2f27eca720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Програмирование/Git/Создание и удаление репозитория.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93fe06297a718ef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a299e1f2fab13e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d976195cced6bdb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a8d45a709536bb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "section:()",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc73295f9be671b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 413.51103591918945
+  },
+  "right": {
+    "id": "83272be4bba25ac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "193ffabff0e283da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a913d843b25d3da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Програмирование/Git/Создание и удаление репозитория.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98f2bc7464483d7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Програмирование/Git/Создание и удаление репозитория.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c57fa41008a13c92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f0135ee03e9941d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Програмирование/Git/Создание и удаление репозитория.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a172fb2f27eca720",
+  "lastOpenFiles": [
+    "Програмирование/Git/Создаём pull request.md",
+    "Програмирование/Git/Связываем локальный и удалённый репозитории.md",
+    "Програмирование/Git/Забираем изменения из удалённого репозитория.md",
+    "Програмирование/Git/Исправление коммитов.md",
+    "Програмирование/Git/Как откатиться назад, если «всё сломалось».md",
+    "Програмирование/Git/Работа с папками и файлами.md",
+    "Програмирование/Git/Fast-forward.md",
+    "Програмирование/Git/Создание и удаление репозитория.md",
+    "Програмирование/Git/Привязываем SSH-ключ к GitHub.md",
+    "Програмирование/Git/Просмотр логов коммитов.md",
+    "Програмирование/Git/Добавление файлов и коммит.md",
+    "Програмирование/Git/Генерация SSH ключа.md",
+    "Програмирование/Git/Ветки GIT.md",
+    "Cache/Pasted image 20240425190928.png",
+    "Cache/Pasted image 20240424150717.png",
+    "Cache/Pasted image 20240424150659.png",
+    "Cache/Pasted image 20240424150648.png",
+    "Cache/Pasted image 20240424145214.png",
+    "Cache/Pasted image 20240424145202.png",
+    "Cache/Pasted image 20240424145151.png",
+    "Cache/Pasted image 20240424140744.png",
+    "Cache/Pasted image 20240424133400.png",
+    "Cache/Pasted image 20240424133333.png",
+    "Cache",
+    "Форматирование текста.md",
+    "План действий, чтобы стать ЕБЕЙШИМ ПРОГРАММИСТОМ.md",
+    "Obsidian Base Settings.md",
+    "Програмирование/Алгоритмы структура данных/Линейный поиск.md",
+    "Програмирование/Алгоритмы структура данных/Как оценивать эффективность алгоритмов.md",
+    "Програмирование/Git/Статусы GIT.md",
+    "Програмирование/Fast api/Начало Fast Api.md",
+    "Програмирование/ООП",
+    "Програмирование/Алгоритмы структура данных",
+    "Програмирование/GO",
+    "Програмирование/Git",
+    "Програмирование/Fast api",
+    "Програмирование",
+    "Книги/2024",
+    "Книги",
+    "Templates/Reference Template.md",
+    "Templates/Default Template.md",
+    "Templates/Planner Template.md",
+    "Templates/Daily Template.md",
+    "Templates/Course Template.md",
+    "Templates"
+  ]
+}
