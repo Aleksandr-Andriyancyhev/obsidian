@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Програмирование/sql/Начало изучение postgresSQL.md",
+                "file": "Програмирование/sql/Первый SQL запросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Програмирование/sql/Начало изучение postgresSQL.md",
+                "file": "Програмирование/sql/Первый SQL запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Програмирование/sql/Начало изучение postgresSQL.md",
+                "file": "Програмирование/sql/Первый SQL запросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Програмирование/sql/Начало изучение postgresSQL.md"
+                "file": "Програмирование/sql/Первый SQL запросы.md"
               }
             }
           }
@@ -148,7 +148,10 @@
   },
   "active": "a172fb2f27eca720",
   "lastOpenFiles": [
-    "Програмирование/sql/Untitled.md",
+    "Cache/Pasted image 20240502181004.png",
+    "Cache/Pasted image 20240502180758.png",
+    "2024-05-02.md",
+    "Програмирование/sql/Первый SQL запросы.md",
     "Програмирование/sql/Начало изучение postgresSQL.md",
     "Cache/Pasted image 20240502175640.png",
     "Cache/Pasted image 20240502175408.png",
@@ -177,7 +180,6 @@
     "Cache/Pasted image 20240424150659.png",
     "Cache/Pasted image 20240424150648.png",
     "Cache/Pasted image 20240424145214.png",
-    "Cache/Pasted image 20240424145202.png",
     "Cache",
     "Форматирование текста.md",
     "План действий, чтобы стать ЕБЕЙШИМ ПРОГРАММИСТОМ.md",
@@ -191,8 +193,6 @@
     "Програмирование",
     "Книги/2024",
     "Книги",
-    "Templates/Reference Template.md",
-    "Templates/Default Template.md",
     "Templates"
   ]
 }
