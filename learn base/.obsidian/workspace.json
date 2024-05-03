@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Програмирование/sql/Создание и удаление таблиц.md",
+                "file": "Програмирование/sql/Типы данных.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Програмирование/sql/Создание и удаление таблиц.md",
+                "file": "Програмирование/sql/Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Програмирование/sql/Создание и удаление таблиц.md",
+                "file": "Програмирование/sql/Типы данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Програмирование/sql/Создание и удаление таблиц.md"
+                "file": "Програмирование/sql/Типы данных.md"
               }
             }
           }
@@ -150,7 +150,10 @@
   "lastOpenFiles": [
     "Програмирование/sql/Первый SQL запросы.md",
     "Програмирование/sql/Начало изучение postgresSQL.md",
+    "Програмирование/sql/Типы данных.md",
     "Програмирование/sql/Создание и удаление таблиц.md",
+    "Obsidian Base Settings.md",
+    "Форматирование текста.md",
     "Cache/Pasted image 20240502181004.png",
     "Cache/Pasted image 20240502180758.png",
     "2024-05-02.md",
@@ -181,10 +184,7 @@
     "Cache/Pasted image 20240424150659.png",
     "Cache/Pasted image 20240424150648.png",
     "Cache",
-    "Форматирование текста.md",
     "План действий, чтобы стать ЕБЕЙШИМ ПРОГРАММИСТОМ.md",
-    "Obsidian Base Settings.md",
-    "Програмирование/Git/Статусы GIT.md",
     "Програмирование/ООП",
     "Програмирование/Алгоритмы структура данных",
     "Програмирование/GO",
